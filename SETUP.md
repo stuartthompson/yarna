@@ -10,4 +10,5 @@ brew cask install adoptopenjdk8
 npm install -g react-native-cli
 
 ## Machine Setup Instructions
+Install XCode
 
